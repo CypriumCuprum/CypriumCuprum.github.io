@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on CLog</title>
-    <link>https://cypriumcuprum.github.io:1313/tags/</link>
+    <link>https://cypriumcuprum.github.io/tags/</link>
     <description>Recent content in Tags on CLog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>vi</language>
     <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cypriumcuprum.github.io:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cypriumcuprum.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://cypriumcuprum.github.io:1313/tags/blog/</link>
+      <link>https://cypriumcuprum.github.io/tags/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cypriumcuprum.github.io:1313/tags/blog/</guid>
+      <guid>https://cypriumcuprum.github.io/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://cypriumcuprum.github.io:1313/tags/hugo/</link>
+      <link>https://cypriumcuprum.github.io/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cypriumcuprum.github.io:1313/tags/hugo/</guid>
+      <guid>https://cypriumcuprum.github.io/tags/hugo/</guid>
       <description></description>
     </item>
   </channel>

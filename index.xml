@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CLog</title>
-    <link>https://cypriumcuprum.github.io:1313/</link>
+    <link>https://cypriumcuprum.github.io/</link>
     <description>Recent content on CLog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>vi</language>
     <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cypriumcuprum.github.io:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cypriumcuprum.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first Blog</title>
-      <link>https://cypriumcuprum.github.io:1313/posts/aboutme/</link>
+      <link>https://cypriumcuprum.github.io/posts/aboutme/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cypriumcuprum.github.io:1313/posts/aboutme/</guid>
+      <guid>https://cypriumcuprum.github.io/posts/aboutme/</guid>
       <description>Đây là blog đầu tiên của tôi. Cảm ơn Hugo và theme PaperMod.
 OMG I don&amp;rsquo;t know why I couldn&amp;rsquo;t write my language - Vietnamese using Visual Studio Code. I will fix soon. Sorry if my English is not good but I do my best and ofcourse ChatGPT :)), thanks.
 Why is Blog? I created this blog and started writing because I want to share what I learn by myself and from my university, PTIT.</description>
